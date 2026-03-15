@@ -8,3 +8,7 @@ kramdown:
   input: GFM
 
 mermaid: true
+
+header_pages:
+  - about.md
+  - tags.md
