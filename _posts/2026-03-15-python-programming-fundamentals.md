@@ -31,7 +31,7 @@ A-->No(None)
 |/|Division|>>> 17/5<br>3.4|>>> 28/3<br>9.333333333333334|
 |%|Remainder/Modulus|>>> 17%5<br>2|>>> 23%2<br>1|
 |**|Exponentiation|>>> 2**3<br>8|>>> 16**.5<br>4.0|
-|//|Integer Division/(Floor Division|>>> 7.0//2<br>3.0|>>> 3//2<br>1|
+|//|Integer Division (Floor Division)|>>> 7.0//2<br>3.0|>>> 3//2<br>1|
 
 ### Relational Operators
 
@@ -57,7 +57,7 @@ A-->No(None)
 ### Shorhand/Augmented Assignment Operators
 **Note:** We assume the value of variable x as 12 for a better understanding of these operators.
 
-|||||
+|Operator|Description|Example|Result|
 |--|--|--|--|
 |+=|adds and assign back the result to left operand|x+=2|the operand/expression/constant written ofn RHS of operator will change the value of x to 14|
 |-=|subtrancts and assigns back the result to left operand|X-=2|x will become 10|
